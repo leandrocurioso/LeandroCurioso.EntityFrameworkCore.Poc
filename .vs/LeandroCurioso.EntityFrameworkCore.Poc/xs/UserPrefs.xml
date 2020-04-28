@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{15A4D17E-247B-41BB-902D-9F2FE086CBB7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="readme.md">
+    <Files>
+      <File FileName="Controllers/UserController.cs" Line="10" Column="11" />
+      <File FileName="Repository/GenericRepository.cs" Line="17" Column="1" />
+      <File FileName="readme.md" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LeandroCurioso.EntityFrameworkCore.Poc" expanded="True">
+            <Node name="Root" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LeandroCurioso.EntityFrameworkCore.Poc PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
